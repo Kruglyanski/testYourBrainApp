@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testYourBrainApp/static/css/main.140b143c.chunk.css",
+    "main.js": "/testYourBrainApp/static/js/main.23742926.chunk.js",
+    "main.js.map": "/testYourBrainApp/static/js/main.23742926.chunk.js.map",
+    "runtime-main.js": "/testYourBrainApp/static/js/runtime-main.9b163591.js",
+    "runtime-main.js.map": "/testYourBrainApp/static/js/runtime-main.9b163591.js.map",
+    "static/js/2.db222eb1.chunk.js": "/testYourBrainApp/static/js/2.db222eb1.chunk.js",
+    "static/js/2.db222eb1.chunk.js.map": "/testYourBrainApp/static/js/2.db222eb1.chunk.js.map",
+    "index.html": "/testYourBrainApp/index.html",
+    "precache-manifest.aefed8d06dc4696dbd69245a5190ffb4.js": "/testYourBrainApp/precache-manifest.aefed8d06dc4696dbd69245a5190ffb4.js",
+    "service-worker.js": "/testYourBrainApp/service-worker.js",
+    "static/css/main.140b143c.chunk.css.map": "/testYourBrainApp/static/css/main.140b143c.chunk.css.map",
+    "static/js/2.db222eb1.chunk.js.LICENSE.txt": "/testYourBrainApp/static/js/2.db222eb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b163591.js",
+    "static/js/2.db222eb1.chunk.js",
+    "static/css/main.140b143c.chunk.css",
+    "static/js/main.23742926.chunk.js"
+  ]
+}
